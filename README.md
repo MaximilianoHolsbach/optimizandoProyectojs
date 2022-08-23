@@ -1,0 +1,2 @@
+# optimizandoProyectojs
+Optimizando proyecto utilizando operadoresavanzados
